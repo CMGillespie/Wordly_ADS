@@ -1,0 +1,16 @@
+# Environment
+venv/
+.env
+*.env
+
+# Secrets & auth
+system_files/token.json
+system_files/credentials.json
+system_files/settings.json
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
